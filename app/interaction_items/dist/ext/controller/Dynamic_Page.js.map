@@ -1,0 +1,1 @@
+{"version":3,"file":"Dynamic_Page.js","names":["sap","ui","define","MessageToast","Dynamic_Page","oEvent","show"],"sources":["Dynamic_Page-dbg.js"],"mappings":"AAAAA,IAAIC,GAAGC,OAAO,CACV,sBACD,SAASC,GACR,aAEA,MAAO,CACHC,aAAc,SAASC,GACnBF,EAAaG,KAAK,0BACtB,EAER","ignoreList":[]}

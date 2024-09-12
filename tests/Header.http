@@ -1,0 +1,11 @@
+#send request
+POST http://localhost:4004/Interactions_Header
+Content-Type: application/json
+
+{
+    "ID" : 1,
+  "ITEMS"  : 123,
+  "PARTNER"  : "SAP",
+  //"LOG_DATE"  : 20082024,
+  "BPCOUNTRY" : "IND"
+}
