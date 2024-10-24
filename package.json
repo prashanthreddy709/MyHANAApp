@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "myhanaapp",
   "version": "1.0.0",
   "description": "A simple CAP project.",
   "repository": {
@@ -44,8 +44,8 @@
   ],
   "main": "index.js",
   "directories": {
-    "test": "tests"
+    "test": "test"
   },
   "keywords": [],
-  "author": "prashanth"
+  "author": ""
 }
