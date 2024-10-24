@@ -1,8 +1,11 @@
 {
-  "name": "MyHANAApp",
+  "name": "myhanaapp",
   "version": "1.0.0",
   "description": "A simple CAP project.",
-  "repository": "<Add your repository here>",
+  "repository": {
+    "type": "git",
+    "url": "<Add your repository here>"
+  },
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
@@ -38,5 +41,11 @@
   "sapux": [
     "app/interaction_items",
     "app/overviewpageapp"
-  ]
+  ],
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": ""
 }
